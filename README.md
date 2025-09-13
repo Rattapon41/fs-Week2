@@ -1,2 +1,5 @@
-# fs-Week1
-นี่เป็นสัปดาห์แรกที่ฉันเริ่มเรียน
+# fs-Week2
+สัปดาห์ที่ 2 เกียวกับการเรียน Fullstack Developer
+
+Week 1: HTML
+Week 2: CSS
